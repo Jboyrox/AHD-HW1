@@ -51,27 +51,27 @@ In summary, I selected these test cases to comprehensively evaluate the data-dep
 **Results**:
 
 
-1) Verilog left shift
+-> Verilog left shift
    ![verilog_left](https://github.com/Jboyrox/AHD-HW1/assets/45749588/106c0010-be46-4f50-95ed-adf256690d73)
-2) VHDL left shift
+-> VHDL left shift
    ![VHDL_Left](https://github.com/Jboyrox/AHD-HW1/assets/45749588/226d6d03-f1b1-4876-92ba-6b0a3e7897d5)
-3) Verilog right shift
+-> Verilog right shift
    ![verilog_right](https://github.com/Jboyrox/AHD-HW1/assets/45749588/4dff99e5-852f-4c08-af69-1ef571b27fdf)
-4) VHDL right shift
+-> VHDL right shift
    ![VHDL_Right](https://github.com/Jboyrox/AHD-HW1/assets/45749588/d2276dc3-cb77-48a8-8e65-e693d8439359)
-5) gpt verilog left 
+-> gpt verilog left 
 ![gpt_left_verilog](https://github.com/Jboyrox/AHD-HW1/assets/45749588/3e7cc7f4-9e4b-4439-8366-09a00ff6dfae)
-6)gpt VHDL left
+->gpt VHDL left
 ![gpt_left_vhdl](https://github.com/Jboyrox/AHD-HW1/assets/45749588/d79e139f-f260-48f0-899b-da6fc3f94644)
-7)gpt verilog right 
+->gpt verilog right 
 ![gpt_right_verilog](https://github.com/Jboyrox/AHD-HW1/assets/45749588/00267877-d0d1-45da-921a-34387d972916)
-8)gpt VHDL right
+->gpt VHDL right
 ![gpt_right_vhdl](https://github.com/Jboyrox/AHD-HW1/assets/45749588/7e0f87a9-aeb5-4487-b02b-78cd700324ce)
 
 
-9) bard verilog left
+-> bard verilog left
     ![bard_left_verilog](https://github.com/Jboyrox/AHD-HW1/assets/45749588/0d334151-aa6d-4549-9c7f-6dd44b9b6514)
-10) bard verilog right
+-> bard verilog right
     ![bard_right_verilog](https://github.com/Jboyrox/AHD-HW1/assets/45749588/f9df2496-58ab-4a5c-ba3e-324d5fefc11a)
 
 
